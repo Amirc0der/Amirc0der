@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amirc0der
 - 👀 I’m interested in Photography and Web Designing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m a fluent English & Persian speaker and I'm currently studying German. 
 - 📫 How to reach me 
           Telegram@arhex
           mkcenter.ir@gmail.com
