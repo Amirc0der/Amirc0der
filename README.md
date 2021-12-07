@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amirc0der
 - 👀 I’m interested in IT support, Web Designing and Photography.
-- 🖥 I've designed more than 10 years with HTML and CSS.
+- 🖥 I have more than 10 years of work experience with HTML and CSS.
 - 🌱 I’m currently learning JavaScript. 
 - 💞️ I’m a fluent English & Persian speaker and I'm currently studying German. 
 - 📞 +989371548533 (Whatsapp and Telegram available)
