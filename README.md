@@ -3,10 +3,9 @@
 - 🖥 I've designed more than 10 years with HTML and CSS.
 - 🌱 I’m currently learning JavaScript. 
 - 💞️ I’m a fluent English & Persian speaker and I'm currently studying German. 
-- 📫 How to reach me?
-          Telegram@arhex
-- 📞 +989371548533 (Whatsapp available)
-- mkcenter.ir@gmail.com
+- 📞 +989371548533 (Whatsapp and Telegram available)
+- 📧 Email : mkcenter.ir@gmail.com
+- 💼 I am looking for a job.
 
 <!---
 Amirc0der/Amirc0der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
