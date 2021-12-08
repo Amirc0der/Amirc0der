@@ -5,7 +5,7 @@
 - 💞️ I’m a fluent English & Persian speaker and I'm currently studying German. 
 - 📞 +989371548533 (Whatsapp and Telegram available)
 - 📧 Email : mkcenter.ir@gmail.com
-- 💼 I am looking for a job.
+- 💼 I am currently looking for a job.
 - ©️ Every project on this page is written from the scratch. I do not use any library of any kind.
 
 <!---
