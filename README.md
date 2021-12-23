@@ -8,7 +8,8 @@
 - 📞 +989371548533 (Whatsapp and Telegram available)
 - 📧 Email : mkcenter.ir@gmail.com
 - 💼 I am currently looking for a job.
-- ©️ Every project on this page is written from the scratch. I do not use any library of any kind.
+- ©️ Every project on this page is written from scratch.
+- 💎 Pure HTML/CSS/JS I do not use any library of any kind.
 
 <!---
 Amirc0der/Amirc0der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
