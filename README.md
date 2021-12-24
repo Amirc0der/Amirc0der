@@ -5,7 +5,7 @@
 - 🖥 I have more than 10 years of work experience with HTML and CSS.
 - 🌱 I’m currently practicing JavaScript. 
 - ©️ Every project on this page is written from scratch.
-- 💎 Pure HTML/CSS/JSو I do not use any library of any kind.
+- 💎 Pure HTML/CSS/JS, I do not use any library of any kind.
 - 💼 I am currently looking for a job.
 - 📞 +989371548533 (Whatsapp and Telegram available)
 - 📧 Email : mkcenter.ir@gmail.com
